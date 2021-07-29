@@ -1,1 +1,3 @@
 print('installer')
+
+print('complete')
